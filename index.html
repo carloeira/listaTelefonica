@@ -13,10 +13,10 @@
         <br>
         <h1>Lista de contatos</h1>
         <hr>
-        <button onclick="novo()" class="btn btn-primary" type="button">Novo Contato</button>
-        <button onclick="listar()" class="btn btn-secondary" type="button">Listar Contatos</button>
+        <button onclick="novo()" id="novoContato" class="btn btn-primary" type="button">Novo Contato</button>
+        <button onclick="listar()" id="listarContato" class="btn btn-secondary" type="button">Listar Contatos</button>
     </header>
-    <table class="table" id="listaDeContatos">
+    <table class="table" id="listaDeContatos" style="display: none;">
         <thead id="tabelaDeContatos">
                 <tr>
                     <th>Nome</th>
@@ -25,9 +25,9 @@
                 </tr>
         </thead>
     </table>
-    <form style="padding: 50px;">
+    <form onclick="paginaNovo" id="paginaNovo" style="padding: 50px; display: none;">
         <div class="form-floating col-md">
-            <input type="text" class="form-control" id="telefone">
+            <input type="text" class="form-control" id="nome">
             <label for="nome">Nome</label>
         </div>
             <br>

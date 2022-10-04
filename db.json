@@ -1,12 +1,6 @@
 {
   "contatos": [
     {
-      "nome": "Carlos Vieira",
-      "telefone": "85992933685",
-      "cidade": "Fortaleza",
-      "id": 1
-    },
-    {
       "nome": "André Silva",
       "telefone": "85992965685",
       "cidade": "Fortaleza",
@@ -19,65 +13,28 @@
       "id": 3
     },
     {
-      "nome": "Maria Paula",
-      "telefone": "88922846255",
-      "cidade": "Fortaleza",
-      "id": 4
-    },
-    {
-      "nome": "Carlin da Liduina",
-      "telefone": "828115520528",
-      "cidade": "Pindoretama",
+      "nome": "Mauricio",
+      "telefone": "85992654811",
+      "cidade": "Maracanaú",
       "id": 5
     },
     {
-      "nome": "Mariana Pedrosa",
-      "telefone": "828129189259",
-      "cidade": "Mulungu",
+      "nome": "Mônica ",
+      "telefone": "859298462128",
+      "cidade": "Fortaleza",
       "id": 6
     },
     {
-      "nome": "Alfredo Lima",
-      "telefone": "82840840850",
-      "cidade": "Fortaleza",
+      "nome": "Patricia Gomes",
+      "telefone": "251548128152",
+      "cidade": "Caridade",
       "id": 7
     },
     {
-      "nome": "Marcos Paulo",
-      "telefone": "8282580055",
+      "nome": "Neville",
+      "telefone": "859928925856",
       "cidade": "Maranguape",
       "id": 8
-    },
-    {
-      "nome": "Margarida de Jesus",
-      "telefone": "851819828181",
-      "cidade": "Baturité",
-      "id": 11
-    },
-    {
-<<<<<<< HEAD
-      "nome": "Joana Silva",
-      "telefone": "859929399659",
-      "cidade": "Brasilia",
-      "id": 12
-    },
-    {
-      "nome": "Maria das Graças",
-      "telefone": "8536658599",
-      "cidade": "Cascavel",
-      "id": 13
-=======
-      "nome": "Adriana Esteves",
-      "telefone": "8582189269258",
-      "cidade": "Jijoca de Jericoaquara",
-      "id": 10
-    },
-    {
-      "nome": "teste",
-      "telefone": "858118",
-      "cidade": "teste",
-      "id": 11
->>>>>>> 78875940ea5b4775b78429d3fb30c60389d77b37
     }
   ]
 }

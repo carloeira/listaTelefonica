@@ -4,7 +4,7 @@
 Neste projeto está sendo usada a API do Nodejs e inicialmente 
 se faz necessário verificar a versão do Nodejs instalada.
 
-<h2>Instalando e verificando versão do Nodejs<h2>
+  <h2>Instalando e verificando versão do Nodejs<h2>
 
 Abra o terminal na pasta de trabalho e execute o comando: 
 node -v

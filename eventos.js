@@ -2,11 +2,11 @@ const API_URL = 'http://localhost:8001'
 
 function novo() {
     paginaNovo.style.display = 'block';
-    listaDeContatos.style.display = 'none';
+    tabela.style.display = 'none';
 }
 
 function listar() {
-    listaDeContatos.style.display = 'block';
+    tabela.style.display = 'table';
     paginaNovo.style.display = 'none';
 
     fetch(API_URL+'/contatos/', {
@@ -65,5 +65,3 @@ function atualizarLista() {
         })
     })
 }
-
-atualizarLista();

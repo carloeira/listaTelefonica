@@ -55,6 +55,7 @@
       "id": 11
     },
     {
+<<<<<<< HEAD
       "nome": "Joana Silva",
       "telefone": "859929399659",
       "cidade": "Brasilia",
@@ -65,6 +66,18 @@
       "telefone": "8536658599",
       "cidade": "Cascavel",
       "id": 13
+=======
+      "nome": "Adriana Esteves",
+      "telefone": "8582189269258",
+      "cidade": "Jijoca de Jericoaquara",
+      "id": 10
+    },
+    {
+      "nome": "teste",
+      "telefone": "858118",
+      "cidade": "teste",
+      "id": 11
+>>>>>>> 78875940ea5b4775b78429d3fb30c60389d77b37
     }
   ]
 }

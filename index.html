@@ -20,7 +20,7 @@
         <button onclick="novo()" id="novoContato" class="btn btn-primary" type="button">Novo Contato</button>
         <button onclick="listar()" id="listarContato" class="btn btn-secondary" type="button">Listar Contatos</button>
     </header>
-    <table class="table" id="listaDeContatos" style="display: none;">
+    <table class="table" id="tabela" style="display: none">
         <thead id="tabelaDeContatos">
                 <tr>
                     <th>Nome</th>
@@ -29,6 +29,7 @@
                     <th>ID</th>
                 </tr>
         </thead>
+        <tbody id="listaDeContatos"></tbody>
     </table>
     <form onclick="paginaNovo" id="paginaNovo" style="padding: 50px; display: none;">
         <div class="form-floating col-md">
@@ -41,12 +42,12 @@
                 <input type="number" class="form-control" id="telefone">
                 <label for="telefone">Telefone</label>
             </div>
-              <div class="form-floating col-md">
+            <div class="form-floating col-md">
                 <input type="text" class="form-control" id="cidade">
                 <label for="cidade">Cidade</label>
             </div>
-            </div>
-            <br>
+        </div>
+         <br>
         <div class="d-grid gap-2">
             <button onclick="salvar()" class="btn btn-dark" type="button">Salvar Contato</button>
         </div>

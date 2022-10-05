@@ -2,7 +2,7 @@
   "contatos": [
     {
       "nome": "André Silva",
-      "telefone": "85992965685",
+      "telefone": "8599296526",
       "cidade": "Fortaleza",
       "id": 2
     },
@@ -35,6 +35,18 @@
       "telefone": "859928925856",
       "cidade": "Maranguape",
       "id": 8
+    },
+    {
+      "nome": "Adoniran Pontes",
+      "telefone": "825292922829",
+      "cidade": "Sorocaba",
+      "id": 9
+    },
+    {
+      "nome": "Moniquely de Souza",
+      "telefone": "828987295285",
+      "cidade": "Mauá",
+      "id": 10
     }
   ]
 }
